@@ -1,0 +1,12 @@
+
+
+The following words first appear at depth 1: 
+sleep 
+
+The following words first appear at depth 2: 
+cow tonight rabbit the did schedule 
+
+The following words first appear at depth 3: 
+work my 
+
+The following words first appear at depth 4: 
